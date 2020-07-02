@@ -1,0 +1,2 @@
+2782432  ns/op          559910  B/op      10422 allocs/op
+16554205 ns/op          513203 B/op       6681 allocs/op

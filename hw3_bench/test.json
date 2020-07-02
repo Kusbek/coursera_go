@@ -1,0 +1,43 @@
+{
+    "browsers": [
+        "Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-T537A Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/35.0.1916.141 Safari/537.36",
+        "Download Demon/3.5.0.11",
+        "SuperBot/4.4.0.60 (Windows XP)",
+        "Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 6.12; Microsoft ZuneHD 4.3)"
+    ],
+    "company": "Katz",
+    "country": "Egypt",
+    "email": "hic_architecto_consequatur@Zooxo.gov",
+    "job": "Staff Accountant #{N}",
+    "name": "Lisa Ramos",
+    "phone": "2-844-221-34-52"
+}
+{
+    "browsers": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2; rv:10.0.1) Gecko/20100101 Firefox/10.0.1",
+        "Mozilla/5.0 (Windows; U; ; en-NZ) AppleWebKit/527  (KHTML, like Gecko, Safari/419.3) Arora/0.8.0",
+        "Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaE6-00/021.002; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.16 Mobile Safari/533.4 3gpp-gba",
+        "Mozilla/5.0 (X11; U; Linux i686; en-us) AppleWebKit/528.5  (KHTML, like Gecko, Safari/528.5 ) lt-GtkLauncher"
+    ],
+    "company": "Oloo",
+    "country": "Cape Verde",
+    "email": "DorisRuiz@Abatz.net",
+    "job": "Senior Editor",
+    "name": "Jack Hill",
+    "phone": "5-122-089-38-57"
+}
+
+{
+    "browsers": [
+        "Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1",
+        "Mozilla/5.0 (Linux; Android 4.4.2; LGMS323 Build/KOT49I.MS32310b) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.103 Mobile Safari/537.36",
+        "HTC_Dream Mozilla/5.0 (Linux; U; Android 1.5; en-ca; Build/CUPCAKE) AppleWebKit/528.5  (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1",
+        "Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 929) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537"
+    ],
+    "company": "Yambee",
+    "country": "Argentina",
+    "email": "7Fields@Feednation.biz",
+    "job": "Paralegal",
+    "name": "Edward Martinez",
+    "phone": "702-87-84"
+}

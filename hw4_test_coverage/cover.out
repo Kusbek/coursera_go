@@ -1,0 +1,25 @@
+mode: set
+coursera_go/hw4_test_coverage/client.go:67.80,71.19 2 1
+coursera_go/hw4_test_coverage/client.go:74.2,74.20 1 1
+coursera_go/hw4_test_coverage/client.go:77.2,77.20 1 1
+coursera_go/hw4_test_coverage/client.go:82.2,93.16 10 1
+coursera_go/hw4_test_coverage/client.go:99.2,102.25 3 1
+coursera_go/hw4_test_coverage/client.go:120.2,122.16 3 1
+coursera_go/hw4_test_coverage/client.go:126.2,127.28 2 1
+coursera_go/hw4_test_coverage/client.go:134.2,134.21 1 1
+coursera_go/hw4_test_coverage/client.go:71.19,73.3 1 1
+coursera_go/hw4_test_coverage/client.go:74.20,76.3 1 1
+coursera_go/hw4_test_coverage/client.go:77.20,79.3 1 1
+coursera_go/hw4_test_coverage/client.go:93.16,94.54 1 1
+coursera_go/hw4_test_coverage/client.go:97.3,97.50 1 1
+coursera_go/hw4_test_coverage/client.go:94.54,96.4 1 1
+coursera_go/hw4_test_coverage/client.go:103.31,104.44 1 1
+coursera_go/hw4_test_coverage/client.go:105.38,106.53 1 1
+coursera_go/hw4_test_coverage/client.go:107.29,110.17 3 1
+coursera_go/hw4_test_coverage/client.go:113.3,114.44 2 1
+coursera_go/hw4_test_coverage/client.go:117.3,117.73 1 1
+coursera_go/hw4_test_coverage/client.go:110.17,112.4 1 1
+coursera_go/hw4_test_coverage/client.go:114.44,116.4 1 1
+coursera_go/hw4_test_coverage/client.go:122.16,124.3 1 1
+coursera_go/hw4_test_coverage/client.go:127.28,130.3 2 1
+coursera_go/hw4_test_coverage/client.go:130.8,132.3 1 1
