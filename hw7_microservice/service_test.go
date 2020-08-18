@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"io"
 	"log"
-	"reflect"
+	reflect "reflect"
 	"runtime"
 	"strings"
-	"sync"
+	sync "sync"
 	"testing"
 	"time"
 
